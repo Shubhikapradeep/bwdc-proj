@@ -9,3 +9,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+:focus {
+  outline: 3px solid #005fcc; 
+  outline-offset: 2px;
+}

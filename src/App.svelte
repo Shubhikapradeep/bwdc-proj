@@ -8,6 +8,11 @@
   import DisappearingDuckExample from "./sections/DisappearingDuckExample.svelte";
   import IntersectionObserverSectionCard from "./sections/IntersectionObserverSectionCard.svelte";
   import IntersectionObserverListExample from "./sections/IntersectionObserverListExample.svelte";
+  import Trend2 from "./sections/Trend2.svelte";
+  import Trend3 from "./sections/Trend3.svelte";
+  import Trend4 from "./sections/Trend4.svelte";
+
+
 </script>
 
 <main>
@@ -15,8 +20,10 @@
   <RightAlignedExample />
   <LeftAlignedExample />
   <ImageExample />
+  <Trend2 />
+  <Trend3 />
+  <Trend4 />
 
-  <IntersectionObserverSectionCard />
   <InteresectionObserverBasicExample />
   <IntersectionObserverAlertExample />
   <DisappearingDuckExample />

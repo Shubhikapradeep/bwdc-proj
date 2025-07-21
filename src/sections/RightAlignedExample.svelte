@@ -72,53 +72,21 @@
 <div>
     <Scroller layout="right">
         {#snippet sticky()}
-            <div class="chart">
-                <Chart {options} highcharts={Highcharts} />
-            </div>
-            <p>
-                Here's an example chart using
-                <a href="https://www.highcharts.com/">Highcharts</a>!
-            </p>
-            <p>
-                📈 <strong>Highcharts</strong> is a super-flexible library for
-                creating all kinds of charts. See demos of different chart types
-                <a href="https://www.highcharts.com/demo">here</a>.
-            </p>
-            <p>
-                Since we're using Highcharts through Svelte, the syntax is a
-                little different from what you might see in the demos. But all
-                of Highcharts' functionality is available through the Highcharts
-                for Svelte package.
-            </p>
-            <p>
-                The configuration is done through the
-                <code>options</code> json object passed to the chart, which you'll
-                see in the source code for this template.
-            </p>
-            <p>
-                Use the
-                <a href="https://api.highcharts.com/highcharts/"
-                    >API reference</a
-                >
-                to understand what each element in the <code>options</code> object
-                does.
-            </p>
+        <img class="bw-img" src="bwinfographic.png" alt="Infographic that explores different factors contributing to black wealth" />
+    
         {/snippet}
 
         {#snippet scrolly()}
             <ArticleText>
-                <strong>Welcome to the KWK Data Scrollytelling Template!</strong
-                >
+                <strong>Welcome to my scrollytelling session, I'm your host - Bee </strong>
             </ArticleText>
 
             <ArticleText>
-                This is a <strong>basic example</strong> of how you might create
-                a scrollytelling piece using Svelte and Highcharts.
+                My hypothesis to test for this project came up while exploring the BWDC site and data on Business Ownership and Employment
             </ArticleText>
 
             <ArticleText>
-                You can use this template as a <strong>starting point</strong>
-                for your project.
+                 This made me curious about how encouraging education and increasing availability of credit could influence more self-employment
                 <br /><br />
                 Or, if you want to build something from scratch, you can use it as
                 a <strong>reference</strong> for specific functionality.
@@ -129,8 +97,8 @@
                 look.
                 <br /><br />
                 <strong>
-                    If you use this template, be sure to modify it and make it
-                    your own!
+                    thus potentially increasing wealth among Black individuals and impacting State Wealth.
+
                 </strong>
             </ArticleText>
         {/snippet}
