@@ -1,22 +1,17 @@
+
+## Acknowledgements, credits and kwk love 
+Home page - https://2025-bwdc-guided-challenge.super.site/
+Circle https://members.kodewithklossy.com/c/featured-challenge/session-recording-and-slides-kickoff
+Slack - https://app.slack.com/client/T08GM4SHP1A/C092PFGV6EA
+Fun facts - https://www.linkedin.com/pulse/future-here-6-mind-blowing-facts-quantum-computing-power-anand-lxzwc/
+All data, tableau graphs - 
+ttps://blackwealthdata.org
+Local wealth explorer - https://blackwealthdata.org/wealth-explorer/memphis
+Credit for first image - https://www.brookings.edu/articles/reaping-the-unrealized-gains-of-black-businesses/
+Accessibility docs - 
+https://svelte.dev/docs/kit/accessibility
+
 # KWK Scrollytelling template
-
-This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
-
-## Demo
-See a live demo of the page [here](https://jasminesamra.github.io/kwk-scrollytelling-template/)!
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
-
-## How to clone the repo
-On this repo's homepage in GitHub, click the `Use this template` button. Select the option to create a new repository. This will create a new repo under your GitHub account.
-
-Navigate to your new copy of this template in your GitHub profile. 
-
-Clone your new repo locally and `cd` into it. 
-
-Run `npm install` and then `npm run dev` to spin up the project locally. Then, start making changes! You can use this repo as a starting point for your own final project or simply as an example. 
-
+(https://jasminesamra.github.io/kwk-scrollytelling-template/)
 ## Credit
 Repo created using vite (`npm create vite@6`)
