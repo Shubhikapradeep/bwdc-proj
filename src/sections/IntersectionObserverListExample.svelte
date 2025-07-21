@@ -22,13 +22,13 @@
     };
 
     let firstList = $state([
-        "one",
-        "two",
-        "three",
-        "four",
-        "five",
-        "six",
-        "seven",
+        "Assets",
+        "Homeownership",
+        "Debts",
+        "Access to education",
+        "Access to Credit(SBA 7a and 504 Loans)",
+        "Percent Population of Black people in state",
+        "Number of Biz formations and firms",
     ]);
 
     let secondList = $state([]);
@@ -39,7 +39,7 @@
         {#snippet sticky()}
             <div id="lists-container">
                 <div class="list">
-                    <h3>list one</h3>
+                    <h3> Hypothesis : Factors that affect Black Business Ownership</h3>
                     {#each firstList as item}
                         <div
                             class="list-item"
@@ -52,7 +52,7 @@
                 </div>
 
                 <div class="list">
-                    <h3>list two</h3>
+                    <h3>Actual Results</h3>
                     {#each secondList as item}
                         <div
                             class="list-item"
@@ -68,42 +68,35 @@
 
         {#snippet scrolly()}
             <ArticleText>
-                This section is... a little buggy. But it might give you some
-                ideas. As you scroll through each of the <code
-                    >{"<ObservedArticleText>"}</code
-                >
-                components, list items are moved from list one to list two.
-                <br /><br />
-                (The buggy bit is that if you scroll in the opposite direction, they
-                still get moved).
+            Bee's Conclusion : So what really affected the increase in black business ownership - indicator wise?
             </ArticleText>
 
             <ObservedArticleText {callback} {options}>
-                Move element seven.
+                Number of firms and formations, help somewhat in gathering receipts and whether these businesses are in profit, but can't directly contribute to an increase in wealth.
             </ObservedArticleText>
 
             <ObservedArticleText {callback} {options}>
-                Move element six.
+             They give an idea of the potentially self employed Black people in a state, but no further indication.
             </ObservedArticleText>
 
             <ObservedArticleText {callback} {options}>
-                Move element five.
+                Actually a solid indicator, but alas - turns out its a better indicator for the increase in attainment of bachelor's degrees rather than black owned businesses. Better luck next time? :)
             </ObservedArticleText>
 
             <ObservedArticleText {callback} {options}>
-                Move element four.
+                Access to education, was not a direct indicator and thus distracted us from the true factors contributing to our hypothesis.
             </ObservedArticleText>
 
             <ObservedArticleText {callback} {options}>
-                Move element three.
+                Debts give another very good idea about whether these businesses are profitable and are contributing to their wealth.
             </ObservedArticleText>
 
             <ObservedArticleText {callback} {options}>
-                Move element two.
+                Homes are the most likely to be used as collateral, so intuitively and functionally - they are the best indicators so far(at least in my knowledge).
             </ObservedArticleText>
 
             <ObservedArticleText {callback} {options}>
-                Move element one.
+                Assets, once again contribute to the wealth directly and can act as collateral thus suplementing and directly acting as a good indicator.
             </ObservedArticleText>
         {/snippet}
     </Scroller>

@@ -23,9 +23,5 @@
   <Trend2 />
   <Trend3 />
   <Trend4 />
-
-  <InteresectionObserverBasicExample />
-  <IntersectionObserverAlertExample />
-  <DisappearingDuckExample />
   <IntersectionObserverListExample />
 </main>
