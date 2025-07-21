@@ -12,12 +12,14 @@
         {#snippet scrolly()}
             <ArticleText>
                 <strong>
-                    Your final project might look totally different from this
-                    template!
+                     Receipts per Black-Owned Firm Vary Wildly!
                 </strong>
+                Some states have many firms but very low receipts — e.g., Mississippi or Alabama.
+Others (like New York or California) have fewer firms but much higher receipts per firm.
             </ArticleText>
 
-            <ArticleText>It's yours to create.</ArticleText>
+            <ArticleText> Interpretation: It’s not about how many Black businesses exist — it’s about the conditions they operate in (access to capital, urban markets, etc.).
+</ArticleText>
         {/snippet}
     </Scroller>
 </div>
