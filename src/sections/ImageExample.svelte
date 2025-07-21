@@ -6,7 +6,7 @@
 <div>
     <Scroller layout="right">
         {#snippet sticky()}
-            <img class="duck-img" src="duck.png" alt="KWK rubber duck!" />
+            <img class="duck-img" src="receipts.png" alt="Receipts per firm graph!" />
         {/snippet}
 
         {#snippet scrolly()}
@@ -26,7 +26,7 @@ Others (like New York or California) have fewer firms but much higher receipts p
 
 <style>
     .duck-img {
-        width: 25%;
+        width: 100%;
         margin: 0px auto;
     }
 </style>
