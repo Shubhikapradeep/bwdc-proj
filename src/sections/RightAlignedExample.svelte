@@ -78,7 +78,9 @@
 
         {#snippet scrolly()}
             <ArticleText>
-                <strong>Welcome to my scrollytelling session, I'm your host - Bee </strong>
+                <strong>Hi, my name is Bee, and I'm really glad to meet you 
+                </strong>
+                    Welcome to my Scrollytelling session!
             </ArticleText>
 
             <ArticleText>
