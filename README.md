@@ -10,6 +10,7 @@ Local wealth explorer - https://blackwealthdata.org/wealth-explorer/memphis
 Credit for first image - https://www.brookings.edu/articles/reaping-the-unrealized-gains-of-black-businesses/
 Accessibility docs - 
 https://svelte.dev/docs/kit/accessibility
+Paul Tol's colour blind friendly palette - https://jrnold.github.io/ggthemes/reference/ptol_pal-1.png
 
 # KWK Scrollytelling template
 (https://jasminesamra.github.io/kwk-scrollytelling-template/)

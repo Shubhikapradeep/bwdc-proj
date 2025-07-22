@@ -19,11 +19,15 @@
 
         {#snippet scrolly()}
             <ArticleText>
+                <strong>
                 First : I decided to look through all datasets and do a basic exploratory data analysis on the 16 directly related to my data.
+                </strong>
             </ArticleText>
 
             <ArticleText>
+                <strong>
                Second : After performing an EDA, I started getting a clear direction of where I was headed - some trends were so visible in the data, that I just had to try telling their story :)
+               </strong>
             </ArticleText>
 
             <ArticleText>

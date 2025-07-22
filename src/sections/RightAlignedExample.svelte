@@ -88,14 +88,9 @@
             <ArticleText>
                  This made me curious about how encouraging education and increasing availability of credit could influence more self-employment
                 <br /><br />
-                Or, if you want to build something from scratch, you can use it as
-                a <strong>reference</strong> for specific functionality.
             </ArticleText>
 
             <ArticleText>
-                This is <strong>just one way</strong> that scrollytelling can
-                look.
-                <br /><br />
                 <strong>
                     thus potentially increasing wealth among Black individuals and impacting State Wealth.
 

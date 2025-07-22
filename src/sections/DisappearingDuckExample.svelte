@@ -28,7 +28,7 @@
             const elem = entry.target;
 
             if (entry.intersectionRatio >= 0.9) {
-                elem.style.backgroundColor = "#e3ff00";
+                elem.style.backgroundColor = "#ddcc77";
                 duckIsVisible = true;
             } else if (entry.intersectionRatio < 0.9) {
                 elem.style.backgroundColor = "#888888";
@@ -41,7 +41,7 @@
             const elem = entry.target;
 
             if (entry.intersectionRatio >= 0.9) {
-                elem.style.backgroundColor = "#e3ff00";
+                elem.style.backgroundColor = "#ddcc77";
                 duckIsVisible = false;
             } else if (entry.intersectionRatio < 0.9) {
                 elem.style.backgroundColor = "#888888";

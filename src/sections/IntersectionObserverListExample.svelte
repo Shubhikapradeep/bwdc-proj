@@ -14,7 +14,7 @@
             // TODO: only do this if we're scrolling upward
             if (entry.intersectionRatio >= 0.9) {
                 // "active" state
-                elem.style.backgroundColor = "#e3ff00";
+                elem.style.backgroundColor = "#ddcc77";
                 const listItem = firstList.pop();
                 secondList.push(listItem);
             }
@@ -112,18 +112,18 @@
 
     .list {
         margin: 0px 20px;
-        background-color: #ff99fc;
-        color: #8427c9;
-        border: solid #8427c9 3px;
+        background-color: #cc6677;
+        color: #aa4477;
+        border: solid #aa4477 3px;
         border-radius: 20px;
-        box-shadow: 16px 16px #8aa6df;
+        box-shadow: 16px 16px #4477aa;
         width: 100%;
     }
 
     .list-item {
-        background-color: #e3ff00;
-        color: #8427c9;
-        border: solid #8427c9 3px;
+        background-color: #ddcc77;
+        color: #aa4477;
+        border: solid #aa4477 3px;
         border-radius: 20px;
         padding: 10px;
         width: 50%;
