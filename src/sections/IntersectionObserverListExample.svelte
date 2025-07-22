@@ -98,6 +98,12 @@
             <ObservedArticleText {callback} {options}>
                 Assets, once again contribute to the wealth directly and can act as collateral thus suplementing and directly acting as a good indicator.
             </ObservedArticleText>
+            <ObservedArticleText {callback} {options}>
+                These factor don't stop here, it just builds up and still further widens the wealth gap. 
+            </ObservedArticleText>
+            <ObservedArticleText {callback} {options}>
+                Which is why these stories are shared, I hope this creates an impact on you :)
+            </ObservedArticleText>
         {/snippet}
     </Scroller>
 </div>

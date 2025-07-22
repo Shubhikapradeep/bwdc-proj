@@ -101,7 +101,7 @@
 </div>
 
 <style>
-    .chart {
+    .bw-img {
         width: 90%;
         margin: 0px auto;
     }
