@@ -74,10 +74,12 @@
             min-width: 100%;
             position: static; /* remove sticky on mobile */
             transform: none;
+            font-size: 26px;
         }
 
         .sticky {
             margin-bottom: 2rem;
+            font-size: 26px;
         }
     }
 </style>

@@ -12,6 +12,7 @@
     .article-text {
         margin: 50vh auto;
         width: 50%;
+        font-size: 26px;
         background-color: #ddcc77;
         color: #117733;
         border: solid #aa4499 3px;

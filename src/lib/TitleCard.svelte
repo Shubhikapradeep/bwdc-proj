@@ -20,6 +20,7 @@
         padding: 2rem;
         box-sizing: border-box;
         font-family: "Inter", sans-serif;
+        font-size: 26px;
     }
 
     .content {
@@ -29,6 +30,7 @@
         border: 6px solid #ddcc77;
         border-radius: 2rem;
         box-shadow: 16px 16px #117733;
+        font-size: 26px;
     }
 
     h1 {
@@ -36,12 +38,14 @@
         margin: 0;
         color: #ddcc77;
         text-shadow: 1px 1px 0 #117733;
+        font-size: 50px;
     }
 
     p {
         font-size: 1.3rem;
         color: #f7f5eb;
         margin-top: 1rem;
+        font-size: 26px;
     }
 
     @media (max-width: 600px) {

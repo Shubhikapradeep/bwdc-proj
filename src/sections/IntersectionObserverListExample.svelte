@@ -15,8 +15,10 @@
             if (entry.intersectionRatio >= 0.9) {
                 // "active" state
                 elem.style.backgroundColor = "#ddcc77";
+                if (firstList.length > 0) {
                 const listItem = firstList.pop();
                 secondList.push(listItem);
+            }
             }
         });
     };
@@ -122,6 +124,7 @@
         color: #aa4477;
         border: solid #aa4477 3px;
         border-radius: 20px;
+        font-size: 16px;
         box-shadow: 16px 16px #4477aa;
         width: 100%;
     }
@@ -132,6 +135,7 @@
         border: solid #aa4477 3px;
         border-radius: 20px;
         padding: 10px;
+        font-size: 16px;
         width: 50%;
         margin: 5px auto;
         text-align: center;
@@ -139,5 +143,6 @@
 
     h3 {
         text-align: center;
+        font-size: 26px;
     }
 </style>

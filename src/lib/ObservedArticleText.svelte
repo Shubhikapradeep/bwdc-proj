@@ -38,5 +38,6 @@
         border-radius: 20px;
         padding: 20px;
         box-shadow: 16px 16px #117733;
+        font-size: 20px;
     }
 </style>
